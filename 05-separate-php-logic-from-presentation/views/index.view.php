@@ -1,6 +1,7 @@
 
         <?php    
         require 'views/templates/control.tmpl.php';
+            /* Content Starts Below */
         ?>
 
    
@@ -19,8 +20,9 @@
                 </div>
             </div>
 
-        <?php    
-        require 'views/templates/nav.tmpl.php';
+            <?php    
+            /* Content Ends Above */
+        require 'views/templates/footer.tmpl.php';
         ?>
 
         
