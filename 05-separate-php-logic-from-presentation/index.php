@@ -6,5 +6,5 @@
         $size = htmlspecialchars($_GET['size']);
         $year = htmlspecialchars($_GET['year']);
 
-        require 'views/control.tmpl.php';
+        require 'views/index.view.php';
     

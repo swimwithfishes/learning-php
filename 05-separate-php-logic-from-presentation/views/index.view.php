@@ -1,7 +1,9 @@
 
-            
+        <?php    
+        require 'views/templates/control.tmpl.php';
+        ?>
 
-
+   
             <div class="info-box">    
                 <div class="info-box-image">
                     <img src="https://unsplash.it/340/">
@@ -17,4 +19,9 @@
                 </div>
             </div>
 
+        <?php    
+        require 'views/templates/nav.tmpl.php';
+        ?>
+
+        
 
