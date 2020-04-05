@@ -1,10 +1,14 @@
 
             
+
+
             <div class="info-box">    
                 <div class="info-box-image">
                     <img src="https://unsplash.it/340/">
                 </div>            
             
+
+
                 <div class="info-box-text">
                     <h2>Tour: <?= $tour ?></h2>
                     <p>Location: <?= $loc ?></p>
@@ -12,3 +16,5 @@
                     <p>Size: <?= $size ?></p>
                 </div>
             </div>
+
+
