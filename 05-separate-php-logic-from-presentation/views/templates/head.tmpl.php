@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Super Landscapes | Dreamy Journeys</title>
+    <title>Dreamy Journeys | <?=$page_title?> </title>
 
     <style>
 
@@ -25,10 +25,10 @@
             margin: 22px;
             border-bottom: 0.5px solid #FCDCC8;
             }
-        
+
         li {
             float: left;
- 
+
             }
 
         li a {
@@ -81,6 +81,6 @@
 
     </style>
 
-    
+
 </head>
     <body>

@@ -1,14 +1,14 @@
 
         <footer>
-        
-            <div class ="footer"> 
-                <p>© <?= $year?> | Brought to you by Kick Ass Travels.</p>
+
+            <div class ="footer">
+                <p>© <?=$year?> | Brought to you by Kick Ass Travels.</p>
             </div>
 
-        </footer>  
+        </footer>
 
 
     </body>
 </html>
-   
+
 
